@@ -1,11 +1,17 @@
 ## Welcome my Github 👋
 
-Computer Vision Engineer since 2019~
 
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Computer%20Vision&fontSize=40)
 
+<div align="center">  
+Computer Vision Engineer since 2019~    
+
+
+ </div>
+
+    
 ## 💻 Programing stacks
-  </div>
+ 
  Languages :  
  
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,13 +45,15 @@ Computer Vision Engineer since 2019~
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)  
  
-  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynaPark&show_icons=true&theme=transparent)
-  
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynaPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
   
   
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeynaPark%2F&count_bg=%23ACABD2&title_bg=%236265E2&icon=&icon_color=%231787C4&title=hits&edge_flat=false)](https://github.com/HeynaPark)
+
+
+contact : 📧ponmoa9305@gmail.com
