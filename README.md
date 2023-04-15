@@ -1,10 +1,10 @@
 ## Welcome my Github 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Computer%20Vision&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Computer%20Vision&fontSize=40)
 
 <div align="center">  
-Computer Vision Engineer since 2019~    
+Developers creating an efficient tomorrow ✨
 
 
  </div>
