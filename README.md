@@ -1,12 +1,12 @@
 ## Welcome to my Github 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Computer%20Vision&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Computer%20Vision&fontSize=60)
 
 <div align="center">  
-Developers creating an efficient tomorrow ✨
+developer shaping a brilliant world ✨
 
-
+<br/><br/><br/>
  </div>
 
     
@@ -17,7 +17,7 @@ Developers creating an efficient tomorrow ✨
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  
+
  Frameworks, Platforms and Libraries :  
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -26,7 +26,7 @@ Developers creating an efficient tomorrow ✨
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-  
+
   IDE :  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -34,7 +34,7 @@ Developers creating an efficient tomorrow ✨
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   
 
-  
+
   OS :  
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,14 +51,19 @@ Developers creating an efficient tomorrow ✨
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)  
+
+<div align="center">
  
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynaPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/><br/>
+
+<br/>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
     
   
   
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeynaPark%2F&count_bg=%23ACABD2&title_bg=%236265E2&icon=&icon_color=%231787C4&title=hits&edge_flat=false)](https://github.com/HeynaPark)
-
+</div>
 
 contact : 📧ponmoa9305@gmail.com
